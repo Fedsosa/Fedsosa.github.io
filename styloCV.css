@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2? family= Cambo & display=swap');
+
+
+/**familia de fuentes: 'Cambo', serif;
+*/
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 15px;
+    font-family: 'Cambo', serif;
+    background-color:darkslategray;
+    text-align:left;
+}
+
+.main-container{
+    background:darkgoldenrod;
+    border: 2px solid black;
+    margin: 15px auto 40px;
+    height: 650px;
+    text-align:left;
+     
+    
+}
+
+
+
+h2{
+    color:darkgoldenrod;
+    margin-left: 5px;
+}
+
+h3{
+    color: yellow;
+    margin-left: 5px;
+}
+
+p{
+    color: white;
+    margin-bottom:1px;
+    margin-left: 5px;
+}
+li{
+    color: white;
+}
+img{
+    margin: 15px;
+}
+
+button {
+    cursor: pointer;
+    border: 2px  solid grey;
+    border-style: none;
+    width: 180px;
+    height: 40px;
+    background-color: mediumaquamarine;
+    border-radius: 45px;
+}
+
+h4{
+    margin-left: 5px;
+}
